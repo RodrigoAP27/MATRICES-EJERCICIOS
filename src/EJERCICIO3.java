@@ -1,3 +1,4 @@
+import javax.swing.*;
 public class EJERCICIO3 {
     public static void main(String[] args) {
         String[][]tabla=new String[5][5];
